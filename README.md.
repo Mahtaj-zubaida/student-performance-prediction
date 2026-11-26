@@ -1,0 +1,30 @@
+# Student Performance Prediction 
+
+## Project Overview
+This project focuses on analyzing student academic performance and predicting student performance categories using Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+## Project Workflow
+1. Data loading and exploration
+2. Data preprocessing
+3. Handling missing values
+4. Data encoding
+5. Exploratory data analysis
+6. Decision Tree Classification
+7. Model evaluation and visualization
+
+## Machine Learning Model
+Decision Tree Classifier
+
+## Objective
+To explore student academic data and identify patterns that can help predict student performance.
+
+## Author
+Mahtaj Zubaida
